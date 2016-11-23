@@ -12,5 +12,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.e("Welcome","Welcome");
+        Log.e("Welcome","Welcome");
+        Log.e("Welcome","Welcome");
+        Log.e("Welcome","Welcome");
+        Log.e("Welcome","Welcome");
+        Log.e("Welcome","Welcome");
     }
 }
